@@ -1,0 +1,18 @@
+_site
+
+# Ignore junk file
+doc/
+**/*.swp
+*.swp
+**/*~
+*.*~
+*~
+db/schema.rb
+public/assets/*
+reports/pdfs/*
+config/database.yml
+/.ruby-version
+.DS_Store
+.project
+.idea
+.secret
